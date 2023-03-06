@@ -21,8 +21,8 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 
 - Create a virtual machine in Microsoft Azure.
 - Set up osTicket in the browser.
-- Browse to your help desk login page: http://localhost/osTicket/scp/login.php
-- Browse End Users osTicket URL: http://localhost/osTicket/ 
+- Browse to your <a href="http://localhost/osTicket/scp/login.php">help desk login page.
+- Browse <a href="http://localhost/osTicket/">End Users osTicket URL.
 
 
 <h2>Post-Installation Steps</h2>

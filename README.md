@@ -19,7 +19,9 @@ This tutorial outlines the osTicket: ticket lifecycle examples of the open-sourc
 
 <h2>List of Prerequisites</h2>
 
-- Create a virtual machine in Microsoft Azure.
+- osTicket-Post-Installation-Configuration 
+https://github.com/jenevasmith/osTicket-Post-Installation-Configuration 
+Create a virtual machine in Microsoft Azure.
 - Set up osTicket in the browser.
 - Browse to your <a href="http://localhost/osTicket/scp/login.php">help desk login page.
 - Browse <a href="http://localhost/osTicket/">End Users osTicket URL.

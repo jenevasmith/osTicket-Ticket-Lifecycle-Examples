@@ -22,14 +22,14 @@ This tutorial outlines the osTicket: ticket lifecycle examples of the open-sourc
 - <a href="https://github.com/jenevasmith/osTicket-Post-Installation-Configuration">osTicket Post Installation Configuration 
 
 <h2>osTicket Ticket Lifecycle Examples Steps</h2>
+  
 - Practice creating, triaging, and solving tickets. 
 
 - Support Center 
   
-In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/ 
-33
+In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/3Dl56dd.png">
 </p>
 <p>
 

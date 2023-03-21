@@ -22,66 +22,75 @@ This tutorial outlines the osTicket: ticket lifecycle examples of the open-sourc
 - <a href="https://github.com/jenevasmith/osTicket-Post-Installation-Configuration">osTicket Post Installation Configuration 
 
 <h2>osTicket Ticket Lifecycle Examples Steps</h2>
+- Practice creating, triaging, and solving tickets. 
 
-- Header
+- Support Center 
   
-Text
-<p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-Text
+In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/ 
+33
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Open a New Ticket
   
-Text
+Click the “Open a New Ticket” button.
+34
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- End User (Customer) Contact Information
   
-Text
+In the Email Address section, add End User (customer) Karen’s email address: Karen@osticket.com.
+35
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Business Critical Outage
   
-Text
+Select “Business Critical Outage” from the Help Topic drop down menu.
+36
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Create a Ticket
   
-Text
+Click the create ticket button. 
+37
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Triage ticket
+  
+Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket -  the entire mobile/online banking system being down, it is a business impacting incident that could potentially lose money for the business. Therefore, the ticket needs to be updated from “Normal” to “Emergency.” 
+38
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Update Priority Level
   
-Text
+Click on “Normal” then select “Emergency” from the drop down menu. 
+39
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Optional reason for the update
   
-Text
+In the “Optional reason for the update” section, “Business impacting event” may be noted.
+40 
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>

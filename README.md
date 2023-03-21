@@ -27,27 +27,22 @@ This tutorial outlines the osTicket: ticket lifecycle examples of the open-sourc
 
 - Support Center 
   
-In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/
 <p>
-<img src="https://imgur.com/3Dl56dd.png">
+In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/ <img src="https://imgur.com/3Dl56dd.png">
 </p>
 <p>
 
 - Open a New Ticket
   
-Click the “Open a New Ticket” button.
-34
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click the  “Open a New Ticket” button. <img src="https://imgur.com/E9ZGBC9.png">
 </p>
 <p>
 
 - End User (Customer) Contact Information
   
-In the Email Address section, add End User (customer) Karen’s email address: Karen@osticket.com.
-35
-<p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<p> 
+In the Email Address section, add End User (customer) Karen’s email address: Karen@osticket.com. <img src="https://imgur.com/X6JFWe3.png">
 </p>
 <p>
 

@@ -48,52 +48,43 @@ In the Email Address section, add End User (customer) Karen’s email address: K
 
 - Business Critical Outage
   
-Select “Business Critical Outage” from the Help Topic drop down menu.
-36
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Select “Business Critical Outage” from the Help Topic drop down menu. <img src="https://imgur.com/npZy9Ub.png">
 </p>
 <p>
 
 - Create a Ticket
-  
-Click the create ticket button. 
-37
+
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click the create ticket button. <img src="https://imgur.com/Q0D4h23.png">
 </p>
 <p>
 
 - Triage ticket
   
-Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket -  the entire mobile/online banking system being down, it is a business impacting incident that could potentially lose money for the business. Therefore, the ticket needs to be updated from “Normal” to “Emergency.” 
-38
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket -  the entire mobile/online banking system being down, it is a business impacting incident that could potentially lose money for the business. Therefore, the ticket needs to be updated from “Normal” to “Emergency.” <img src="https://imgur.com/1yCATqA.png">
 </p>
 <p>
   
 - Update Priority Level
   
-Click on “Normal” then select “Emergency” from the drop down menu. 
-39
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click on “Normal” then select “Emergency” from the drop down menu. <img src="https://imgur.com/VW2TU8x.png">
 </p>
 <p>
   
 - Optional reason for the update
   
-In the “Optional reason for the update” section, “Business impacting event” may be noted.
-40 
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+In the “Optional reason for the update” section, “Business impacting event” may be noted. <img src="https://imgur.com/VW2TU8x.png">
 </p>
 <p>
   
 - Header
   
 Text
+41
 <p>
 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>

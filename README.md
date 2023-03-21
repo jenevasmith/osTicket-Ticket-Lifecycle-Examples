@@ -83,185 +83,161 @@ In the “Optional reason for the update” section, “Business impacting event
   
 - Header
   
-Text
-41
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text 41, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-Text
-<p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-  
-- Header
-  
-Text
-<p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Header
+ 
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Header
+  
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Header
   
-Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>

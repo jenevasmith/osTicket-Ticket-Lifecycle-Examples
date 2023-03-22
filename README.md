@@ -81,24 +81,24 @@ In the “Optional reason for the update” section, “Business impacting event
 </p>
 <p>
   
-- Header
+- Update
   
 <p>
-Text 41, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Update button. <img src="https://imgur.com/JgMmLRo.png">
 </p>
 <p>
   
-- Header
+- Assigned To
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click on “Unassigned.” <img src="https://imgur.com/DToJ6du.png">
 </p>
 <p>
   
-- Header
+- Assignee
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/3N3zjEx.png">
 </p>
 <p>
   

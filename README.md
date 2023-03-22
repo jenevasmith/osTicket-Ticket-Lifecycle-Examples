@@ -105,63 +105,63 @@ Within the “Assign to a Team” pop up, from the “Select,” drop down menu,
 - Assign
   
 <p>
-Click on the Assign button. 44 <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Assign button. <img src="https://imgur.com/IzH90Q4.png">
 </p>
 <p>
   
 - SLA Plan
   
 <p>
-Update the SLA Plan by first selecting “Default SLA.” 45 <img src="https://i.imgur.com/DJmEXEB.png">
+Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgur.com/Ry1Qxet.png">
 </p>
 <p>
   
 - Update SLA Plan
   
 <p>
-Then, choose “SEV-A” from the drop down menu. 46 <img src="https://i.imgur.com/DJmEXEB.png">
+Then, choose “SEV-A” from the drop down menu. <img src="https://imgur.com/mrOzCXh.png">
 </p>
 <p>
   
 - Optional reason for the update
   
 <p>
-In the “Optional reason for the update” section, “Business impacting, critical incident” may be noted. 47 <img src="https://i.imgur.com/DJmEXEB.png">
+In the “Optional reason for the update” section, “Business impacting, critical incident” may be noted. <img src="https://imgur.com/yjGeUAt.png">
 </p>
 <p>
   
 - Update
   
 <p>
-Click on the Update button. 48 <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Update button. <img src="https://imgur.com/Hqs27jt.png">
 </p>
 <p>
   
 - Transfer
   
 <p>
-Transfer the ticket by clicking on “Support.” <img src="https://i.imgur.com/DJmEXEB.png">
+Transfer the ticket by clicking on “Support.” <img src="https://imgur.com/KNe0l37.png">
 </p>
 <p>
   
 - System Administrators
   
 <p>
-Then, choose “System Administrators” from the Department’s drop down menu. 50 <img src="https://i.imgur.com/DJmEXEB.png">
+Then, choose “System Administrators” from the Department’s drop down menu. <img src="https://imgur.com/IgSLiUT.png">
 </p>
 <p>
   
 - Solve the ticket
   
 <p>
- Within the “Ticket Status” drop down menu, change the ticket status to “Resolved.” 51 <img src="https://i.imgur.com/DJmEXEB.png">
+ Within the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/pHIIGlr.png">
 </p>
 <p>
   
 - Post Reply
   
 <p>
-Click on the Post Reply button. 52 <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Post Reply button. <img src="https://imgur.com/iBGih2l.png">
 </p>
 <p>
   

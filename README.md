@@ -102,66 +102,66 @@ Within the “Assign to a Team” pop up, from the “Select,” drop down menu,
 </p>
 <p>
   
-- Header
+- Assign
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Assign button. 44 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- SLA Plan
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Update the SLA Plan by first selecting “Default SLA.” 45 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Update SLA Plan
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Then, choose “SEV-A” from the drop down menu. 46 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Optional reason for the update
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+In the “Optional reason for the update” section, “Business impacting, critical incident” may be noted. 47 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Update
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Update button. 48 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Transfer
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Transfer the ticket by clicking on “Support.” <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- System Administrators
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Then, choose “System Administrators” from the Department’s drop down menu. 50 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Solve the ticket
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+ Within the “Ticket Status” drop down menu, change the ticket status to “Resolved.” 51 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Post Reply
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click on the Post Reply button. 52 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   

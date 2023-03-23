@@ -98,7 +98,7 @@ Click on “Unassigned.” <img src="https://imgur.com/DToJ6du.png">
 - Assignee
   
 <p>
-Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/3N3zjEx.png">
+Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/qBbCoVW.png">
 </p>
 <p>
   

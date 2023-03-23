@@ -168,29 +168,28 @@ Click on the Post Reply button. <img src="https://imgur.com/iBGih2l.png">
 - Open a New Ticket
   
 <p>
-Click the “Open a New Ticket” button 53 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the “Open a New Ticket” button. <img src="https://imgur.com/LH0avz6.png">
 </p>
 <p>
   
 - Contact Information
   
 <p>
-In the Email Address section, add End User (customer) Ken’s email address: Ken@osticket.com. 54 <img src="https://i.imgur.com/DJmEXEB.png">
+In the Email Address section, add End User (customer) Ken’s email address: Ken@osticket.com. <img src="https://imgur.com/UKOUSrS.png">
 </p>
 <p>
 
 - Help Topic
   
 <p>
-Select “Personal Computer Issues” from the Help Desk drop down menu.
-55 <img src="https://i.imgur.com/DJmEXEB.png">
+Select “Personal Computer Issues” from the Help Desk drop down menu. <img src="https://imgur.com/c6nUdqY.png">
 </p>
 <p>
   
 - Create Ticket
   
 <p>
-Click the create ticket button. 56 <img src="https://i.imgur.com/DJmEXEB.png">
+Click the create ticket button. <img src="https://imgur.com/I4ZCxkv.png">
 </p>
 <p>
 
@@ -201,6 +200,83 @@ Start the ticket triage process by assigning a level of priority to Ken’s tick
 </p>
 <p>
   
+- Priority
+  
+<p>
+Click on “Normal” to update the priority level. <img src="https://imgur.com/53grseS.png">
+</p>
+<p>
+
+- Priority Level
+ 
+<p>
+Select “High” from the Priority Level drop down menu. <img src="https://imgur.com/ZEfhkr3.png">
+</p>
+<p>
+  
+- Update
+  
+<p>
+Click on the Update button. <img src="https://imgur.com/o97Af87.png">
+</p>
+<p>
+  
+- Assigned To
+  
+<p>
+Click on “Unassigned.” <img src="https://imgur.com/kb0Sa81.png">
+</p>
+<p>
+  
+- Assignee
+  
+<p>
+Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “John Doe.” <img src="https://imgur.com/NSMH9CZ.png">
+</p>
+<p>
+
+- Assign
+  
+<p>
+Click on the assign button. <img src="https://imgur.com/J2rRMOX.png">
+</p>
+<p>
+
+- SLA Plan
+  
+<p>
+Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgur.com/pn7CIZL.png">
+</p>
+<p>
+
+- Update SLA Plan
+  
+<p>
+Then, choose “SEV-B” from the SLA Plan drop down menu. <img src="https://imgur.com/pML9c4j.png">
+</p>
+<p>
+
+- Update
+  
+<p>
+Click on the Update button. <img src="https://imgur.com/zBwLMu5.png">
+</p>
+<p>
+
+- Solve ticket
+  
+<p>
+From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/W6u1sho.png">
+</p>
+<p>
+
+- Post Reply
+  
+<p>
+Click on the Post Reply button. <img src="https://imgur.com/ekQIU3H.png">
+</p>
+<p>
+
 - Header
   
 <p>
@@ -209,26 +285,61 @@ Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 <p>
 
 - Header
- 
+  
 <p>
 Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
-  
+
 - Header
   
 <p>
 Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
-  
+
 - Header
   
 <p>
 Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
+
+- Header
   
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Header
+  
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Header
+  
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Header
+  
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Header
+  
+<p>
+Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
 - Header
   
 <p>

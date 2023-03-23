@@ -31,6 +31,8 @@ This tutorial outlines the osTicket: ticket lifecycle examples of the open-sourc
 In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/ <img src="https://imgur.com/3Dl56dd.png">
 </p>
 <p>
+  
+- Sev-A Example (Grace Period: 1 hour, Schedule: 24/7) - Entire mobile/online banking system is down 
 
 - Open a New Ticket
   

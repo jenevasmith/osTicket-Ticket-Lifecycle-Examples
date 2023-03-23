@@ -165,38 +165,39 @@ Click on the Post Reply button. <img src="https://imgur.com/iBGih2l.png">
 </p>
 <p>
   
-- Header
+- Open a New Ticket
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click the “Open a New Ticket” button 53 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
-- Header
+- Contact Information
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-  
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+In the Email Address section, add End User (customer) Ken’s email address: Ken@osticket.com. 54 <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
-- Header
+- Help Topic
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Select “Personal Computer Issues” from the Help Desk drop down menu.
+55 <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Create Ticket
+  
+<p>
+Click the create ticket button. 56 <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Triage ticket
+  
+<p>
+Start the ticket triage process by assigning a level of priority to Ken’s ticket. Due to the nature of this ticket, “the accounting department’s Adobe Reader is broken and needs an upgrade,” the ticket needs to be changed from “Normal” and updated to “High.” 
 </p>
 <p>
   

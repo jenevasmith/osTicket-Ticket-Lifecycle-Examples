@@ -166,7 +166,9 @@ Then, choose “System Administrators” from the Department’s drop down menu.
 Click on the Post Reply button. <img src="https://imgur.com/iBGih2l.png">
 </p>
 <p>
-  
+
+- Sev-B Example (Grace Period: 4 hours, Schedule: 24/7) - Accounting department needs Adobe Reader upgrade, broken 
+
 - Open a New Ticket
   
 <p>
@@ -279,79 +281,121 @@ Click on the Post Reply button. <img src="https://imgur.com/ekQIU3H.png">
 </p>
 <p>
 
-- Header
+- Sev-C Example (Grace Period: 8 hours, Schedule: business hours) - department hardware refresh status
+
+- Open a New Ticket
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Click the “Open a New Ticket” button. <img src="https://imgur.com/lHFpRUN.png">
+</p>
+<p>
+
+- Contact Information
+  
+<p>
+In the Email Address section, add End User (customer) Karen’s email address: Karen@osticket.com. <img src="https://imgur.com/KheEwd5.png">
+</p>
+<p>
+
+- Help Topic
+  
+<p>
+Select “General Inquiry” from the Help Desk drop down menu. <img src="https://imgur.com/vUDrs6d.png">
+</p>
+<p>
+
+- Create Ticket
+  
+<p>
+Click the create ticket button. <img src="https://imgur.com/NiRobOd.png">
+</p>
+<p>
+
+- Triage ticket
+Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket, “department hardware refresh status” the ticket needs to be changed from “Normal” and updated to “Low.” 
+
+- Priority
+  
+<p>
+Click on “Normal” to update the priority level. <img src="https://imgur.com/aa7vHDe.png">
+</p>
+<p>
+
+- Priority Level
+  
+<p>
+Select “Low” from the Priority Level drop down menu. <img src="https://imgur.com/W4yFfOZ.png">
+</p>
+<p>
+
+- Update
+  
+<p>
+Click on the Update button. <img src="https://imgur.com/lOEPo50.png">
+</p>
+<p>
+
+- Assigned To
+  
+<p>
+Click on “Unassigned.” <img src="https://imgur.com/ZL3qqnS.png">
+</p>
+<p>
+
+- Assignee
+  
+<p>
+Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/7FK4cg3.png">
+</p>
+<p>
+
+- Assign
+  
+<p>
+Click on the assign button. <img src="https://imgur.com/5nLSrrZ.png">
+</p>
+<p>
+
+- SLA Plan
+  
+<p>
+Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgur.com/0O0hB3v.png">
+</p>
+<p>
+
+- Update SLA Plan
+  
+<p>
+Then, choose “SEV-C” from the SLA Plan drop down menu. <img src="https://imgur.com/ME3HHby.png">
+
+</p>
+<p>
+
+- Update
+  
+<p>
+Click on the Update button. <img src="https://imgur.com/p9taZlX.png">
+</p>
+<p>
+
+- Solve ticket
+  
+<p>
+From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/PRwV7Vn.png">
+</p>
+<p>
+
+- Post Reply
+  
+<p>
+Post Reply
+Click on the Post Reply button. <img src="https://imgur.com/iyXtx5f.png">
 </p>
 <p>
 
 - Header
   
 <p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text, place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>

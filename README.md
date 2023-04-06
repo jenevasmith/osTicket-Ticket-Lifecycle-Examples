@@ -127,7 +127,7 @@ In the “Optional reason for the update” section, “Business impacting, crit
 - Transfer
   
 <p>
-Transfer the ticket by clicking on “Support.” <img src="https://imgur.com/KNe0l37.png">
+Transfer the ticket by first clicking on “Support.” <img src="https://imgur.com/KNe0l37.png">
 </p>
 <p>
   

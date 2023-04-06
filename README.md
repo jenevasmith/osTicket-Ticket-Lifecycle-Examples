@@ -257,14 +257,7 @@ In the Email Address section, add End User (customer) Karen’s email address: "
 - Help Topic
   
 <p>
-Select Help Topic: “General Inquiry” from the Help Topic's drop down menu. <img src="https://imgur.com/vUDrs6d.png">
-</p>
-<p>
-
-- Create Ticket
-  
-<p>
-Click the create ticket button. <img src="https://imgur.com/NiRobOd.png">
+Select Help Topic: “General Inquiry” from the Help Topic's drop down menu. Then, click the Create Ticket button. <img src="https://imgur.com/vUDrs6d.png">
 </p>
 <p>
 

@@ -27,7 +27,7 @@ This tutorial outlines osTicket: ticket lifecycle examples of the open-source he
 - Support Center 
   
 <p>
-In the browser, add a new tab, then paste the following URL within it: http://localhost/osTicket/ <img src="https://imgur.com/3Dl56dd.png">
+In the browser, paste the following URL: http://localhost/osTicket/ <img src="https://imgur.com/3Dl56dd.png">
 </p>
 <p>
   

@@ -85,14 +85,14 @@ In the “Optional reason for the update” section, “Business impacting event
 - Assigned To
   
 <p>
-Click on “Unassigned.” <img src="https://imgur.com/DToJ6du.png">
+Next to "Assigned To" click on “Unassigned.” <img src="https://imgur.com/DToJ6du.png">
 </p>
 <p>
   
 - Assignee
   
 <p>
-Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/qBbCoVW.png">
+Within the “Assign to a Team” pop up, from the “Assignee,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/qBbCoVW.png">
 </p>
 <p>
   

@@ -134,7 +134,7 @@ Transfer the ticket by clicking on “Support.” <img src="https://imgur.com/KN
 - System Administrators
   
 <p>
-Next, choose “System Administrators” from the Department’s drop down menu. <img src="https://imgur.com/IgSLiUT.png">
+Next, choose “System Administrators” from the Department’s drop down menu. Then, click the Transfer button. <img src="https://imgur.com/IgSLiUT.png">
 </p>
 <p>
   

@@ -257,7 +257,14 @@ In the Email Address section, add End User (customer) Karen’s email address: "
 - Help Topic
   
 <p>
-Select Help Topic: “General Inquiry” from the Help Topic's drop down menu. Then, click the Create Ticket button. <img src="https://imgur.com/vUDrs6d.png">
+Select Help Topic: “General Inquiry” from the Help Topic's drop down menu. <img src="https://imgur.com/vUDrs6d.png">
+</p>
+<p>
+
+- Create Ticket
+  
+<p>
+Click the create ticket button. <img src="https://imgur.com/NiRobOd.png">
 </p>
 <p>
 
@@ -288,7 +295,7 @@ Click on “Unassigned” to begin assigning the ticket. <img src="https://imgur
 - Assignee
   
 <p>
-Within the “Assign to a Team” pop up, from the “Select,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/7FK4cg3.png">
+Within the “Assign to a Team” pop up, from the “Assignee,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/7FK4cg3.png">
 </p>
 <p>
 

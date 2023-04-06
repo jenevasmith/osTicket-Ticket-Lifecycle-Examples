@@ -71,7 +71,7 @@ Start the ticket triage process by assigning a level of priority to Karen’s ti
 - Update Priority Level
   
 <p>
-Click on “Normal” then select “Emergency” from the drop down menu. <img src="https://imgur.com/VW2TU8x.png">
+Click on “Normal” then select “Emergency” from the drop down menu. <img src="https://imgur.com/OupfWZI.png">
 </p>
 <p>
   

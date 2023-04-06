@@ -199,7 +199,7 @@ Select “High” from the Priority Level drop down menu. Then, click on the Upd
 - Assigned To
   
 <p>
-Click on “Unassigned.” <img src="https://imgur.com/kb0Sa81.png">
+Click on “Unassigned” to begin assigning the ticket. <img src="https://imgur.com/kb0Sa81.png">
 </p>
 <p>
   
@@ -288,7 +288,7 @@ Select “Low” from the Priority Level drop down menu. Then, click on the Upda
 - Assigned To
   
 <p>
-Click on “Unassigned.” <img src="https://imgur.com/ZL3qqnS.png">
+Click on “Unassigned” to begin assigning the ticket. <img src="https://imgur.com/ZL3qqnS.png">
 </p>
 <p>
 

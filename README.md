@@ -278,7 +278,7 @@ Start the ticket triage process by assigning a level of priority to Karen’s ti
 - Priority
   
 <p>
-Click on “Normal” to update the priority level. <img src="https://imgur.com/aa7vHDe.png">
+Click on “Normal” to begin updating the priority level. <img src="https://imgur.com/aa7vHDe.png">
 </p>
 <p>
 

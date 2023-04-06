@@ -78,14 +78,7 @@ Click on “Normal” then select “Emergency” from the drop down menu. <img 
 - Optional Reason For the Update
   
 <p>
-In the “Optional reason for the update” section, “Business impacting event” may be noted. <img src="https://imgur.com/VW2TU8x.png">
-</p>
-<p>
-  
-- Update
-  
-<p>
-Click on the Update button. <img src="https://imgur.com/JgMmLRo.png">
+In the “Optional reason for the update” section, “Business impacting event” may be noted. Then, click on the Update button. <img src="https://imgur.com/JgMmLRo.png">
 </p>
 <p>
   

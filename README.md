@@ -113,7 +113,7 @@ Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgu
 - Update SLA Plan
   
 <p>
-Then, choose “SEV-A” from the drop down menu. <img src="https://imgur.com/mrOzCXh.png">
+Then, choose “SEV-A” from the SLA Plan drop down menu. <img src="https://imgur.com/mrOzCXh.png">
 </p>
 <p>
   

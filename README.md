@@ -257,7 +257,7 @@ In the Email Address section, add End User (customer) Karen’s email address: "
 - Help Topic
   
 <p>
-Select “General Inquiry” from the Help Desk drop down menu. <img src="https://imgur.com/vUDrs6d.png">
+Select “General Inquiry” the Help Topic. <img src="https://imgur.com/vUDrs6d.png">
 </p>
 <p>
 

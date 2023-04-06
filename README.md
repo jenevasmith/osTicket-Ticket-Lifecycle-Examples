@@ -306,7 +306,7 @@ Within the “Assign to a Team” pop up and from the “Assignee” drop down m
 - Assign
   
 <p>
-Click on the assign button. <img src="https://imgur.com/5nLSrrZ.png">
+Click on the Assign button. <img src="https://imgur.com/5nLSrrZ.png">
 </p>
 <p>
 

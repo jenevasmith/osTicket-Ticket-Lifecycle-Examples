@@ -16,7 +16,7 @@ This tutorial outlines osTicket: ticket lifecycle examples of the open-source he
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisite</h2>
 
 - See <a href="https://github.com/jenevasmith/osTicket-Post-Installation-Configuration"> osTicket: Post Installation Configuration 
 

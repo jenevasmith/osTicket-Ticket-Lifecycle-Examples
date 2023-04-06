@@ -238,7 +238,7 @@ From the “Ticket Status” drop down menu, change the ticket status to “Reso
 </p>
 <p>
 
-- Sev-C Example (Grace Period: 8 hours, Schedule: business hours) - department hardware refresh status
+- Sev-C Example (Grace Period: 8 hours, Schedule: Business Hours) - Department Hardware Refresh Status
 
 - Open a New Ticket
   

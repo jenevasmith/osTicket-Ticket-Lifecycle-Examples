@@ -120,14 +120,7 @@ Then, choose “SEV-A” from the SLA Plan's drop down menu. <img src="https://i
 - Optional Reason For the Update
   
 <p>
-In the “Optional reason for the update” section, “Business impacting, critical incident” may be noted. <img src="https://imgur.com/yjGeUAt.png">
-</p>
-<p>
-  
-- Update
-  
-<p>
-Click on the Update button. <img src="https://imgur.com/Hqs27jt.png">
+In the “Optional reason for the update” section, “Business impacting, critical incident” may be noted. Then, click on the Update button. <img src="https://imgur.com/yjGeUAt.png">
 </p>
 <p>
   

@@ -43,7 +43,7 @@ Click the  “Open a New Ticket” button. <img src="https://imgur.com/E9ZGBC9.p
 - End User (Customer) Contact Information
   
 <p> 
-In the Email Address section, add End User (customer) Karen’s email address: Karen@osticket.com. <img src="https://imgur.com/X6JFWe3.png">
+In the Email Address section, add End User (customer) Karen’s email address: "Karen@osticket.com." <img src="https://imgur.com/X6JFWe3.png">
 </p>
 <p>
 
@@ -61,7 +61,7 @@ Click the create ticket button. <img src="https://imgur.com/Q0D4h23.png">
 </p>
 <p>
 
-- Triage ticket
+- Triage Ticket
   
 <p>
 Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket -  the entire mobile/online banking system being down, it is a business impacting incident that could potentially lose money for the business. Therefore, the ticket needs to be updated from “Normal” to “Emergency.” <img src="https://imgur.com/1yCATqA.png">
@@ -75,7 +75,7 @@ Click on “Normal” then select “Emergency” from the drop down menu. <img 
 </p>
 <p>
   
-- Optional reason for the update
+- Optional Reason For the Update
   
 <p>
 In the “Optional reason for the update” section, “Business impacting event” may be noted. <img src="https://imgur.com/VW2TU8x.png">
@@ -124,7 +124,7 @@ Then, choose “SEV-A” from the drop down menu. <img src="https://imgur.com/mr
 </p>
 <p>
   
-- Optional reason for the update
+- Optional Reason For the Update
   
 <p>
 In the “Optional reason for the update” section, “Business impacting, critical incident” may be noted. <img src="https://imgur.com/yjGeUAt.png">
@@ -152,7 +152,7 @@ Then, choose “System Administrators” from the Department’s drop down menu.
 </p>
 <p>
   
-- Solve the ticket
+- Solve the Ticket
   
 <p>
  Within the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/pHIIGlr.png">
@@ -178,7 +178,7 @@ Click the “Open a New Ticket” button. <img src="https://imgur.com/LH0avz6.pn
 - Contact Information
   
 <p>
-In the Email Address section, add End User (customer) Ken’s email address: Ken@osticket.com. <img src="https://imgur.com/UKOUSrS.png">
+In the Email Address section, add End User (customer) Ken’s email address: "Ken@osticket.com." <img src="https://imgur.com/UKOUSrS.png">
 </p>
 <p>
 
@@ -196,7 +196,7 @@ Click the create ticket button. <img src="https://imgur.com/I4ZCxkv.png">
 </p>
 <p>
 
-- Triage ticket
+- Triage Ticket
   
 <p>
 Start the ticket triage process by assigning a level of priority to Ken’s ticket. Due to the nature of this ticket, “the accounting department’s Adobe Reader is broken and needs an upgrade,” the ticket needs to be changed from “Normal” and updated to “High.” 
@@ -266,7 +266,7 @@ Click on the Update button. <img src="https://imgur.com/zBwLMu5.png">
 </p>
 <p>
 
-- Solve ticket
+- Solve Ticket
   
 <p>
 From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/W6u1sho.png">
@@ -292,7 +292,7 @@ Click the “Open a New Ticket” button. <img src="https://imgur.com/lHFpRUN.pn
 - Contact Information
   
 <p>
-In the Email Address section, add End User (customer) Karen’s email address: Karen@osticket.com. <img src="https://imgur.com/KheEwd5.png">
+In the Email Address section, add End User (customer) Karen’s email address: "Karen@osticket.com." <img src="https://imgur.com/KheEwd5.png">
 </p>
 <p>
 
@@ -310,7 +310,7 @@ Click the create ticket button. <img src="https://imgur.com/NiRobOd.png">
 </p>
 <p>
 
-- Triage ticket
+- Triage Ticket
 Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket, “department hardware refresh status” the ticket needs to be changed from “Normal” and updated to “Low.” 
 
 - Priority
@@ -377,7 +377,7 @@ Click on the Update button. <img src="https://imgur.com/p9taZlX.png">
 </p>
 <p>
 
-- Solve ticket
+- Solve Ticket
   
 <p>
 From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/PRwV7Vn.png">
@@ -389,12 +389,5 @@ From the “Ticket Status” drop down menu, change the ticket status to “Reso
 <p>
 Post Reply
 Click on the Post Reply button. <img src="https://imgur.com/iyXtx5f.png">
-</p>
-<p>
-
-- Header
-  
-<p>
-Text and place photo here <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>

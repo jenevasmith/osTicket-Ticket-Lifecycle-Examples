@@ -255,14 +255,7 @@ Click on the Update button. <img src="https://imgur.com/zBwLMu5.png">
 - Solve Ticket
   
 <p>
-From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/W6u1sho.png">
-</p>
-<p>
-
-- Post Reply
-  
-<p>
-Click on the Post Reply button. <img src="https://imgur.com/ekQIU3H.png">
+From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” Then, click on the Post Reply button. <img src="https://imgur.com/W6u1sho.png">
 </p>
 <p>
 

@@ -269,7 +269,11 @@ Click the create ticket button. <img src="https://imgur.com/NiRobOd.png">
 <p>
 
 - Triage Ticket
+  
+<p>
 Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket, “department hardware refresh status” the ticket needs to be changed from “Normal” and updated to “Low.” 
+</p>
+<p>
 
 - Priority
   

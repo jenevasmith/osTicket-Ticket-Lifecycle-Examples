@@ -145,7 +145,7 @@ Choose “System Administrators” from the Department’s drop down menu. Finis
 </p>
 <p>
 
-- Sev-B Example (Grace Period: 4 hours, Schedule: 24/7) - Accounting department needs Adobe Reader upgrade, broken 
+- Sev-B Example (Grace Period: 4 hours, Schedule: 24/7) - the Accounting Department Needs an Adobe Reader Upgrade, Broken 
 
 - Open a New Ticket
   

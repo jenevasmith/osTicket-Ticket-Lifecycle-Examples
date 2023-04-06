@@ -192,14 +192,7 @@ Click on “Normal” to update the priority level. <img src="https://imgur.com/
 - Priority Level
  
 <p>
-Select “High” from the Priority Level drop down menu. <img src="https://imgur.com/ZEfhkr3.png">
-</p>
-<p>
-  
-- Update
-  
-<p>
-Click on the Update button. <img src="https://imgur.com/o97Af87.png">
+Select “High” from the Priority Level drop down menu. Then, click on the Update button. <img src="https://imgur.com/ZEfhkr3.png">
 </p>
 <p>
   
@@ -234,14 +227,7 @@ Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgu
 - Update SLA Plan
   
 <p>
-Then, choose “SEV-B” from the SLA Plan drop down menu. <img src="https://imgur.com/pML9c4j.png">
-</p>
-<p>
-
-- Update
-  
-<p>
-Click on the Update button. <img src="https://imgur.com/zBwLMu5.png">
+Then, choose “SEV-B” from the SLA Plan drop down menu. Then, click on the Update button. <img src="https://imgur.com/pML9c4j.png">
 </p>
 <p>
 

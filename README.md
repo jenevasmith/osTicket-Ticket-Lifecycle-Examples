@@ -141,14 +141,7 @@ Next, choose “System Administrators” from the Department’s drop down menu.
 - Solve the Ticket
   
 <p>
- Within the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/pHIIGlr.png">
-</p>
-<p>
-  
-- Post Reply
-  
-<p>
-Click on the Post Reply button. <img src="https://imgur.com/iBGih2l.png">
+ Within the “Ticket Status” drop down menu, change the ticket status to “Resolved.” Then, click on the Post Reply button. <img src="https://imgur.com/pHIIGlr.png">
 </p>
 <p>
 
@@ -302,14 +295,7 @@ Click on “Normal” to update the priority level. <img src="https://imgur.com/
 - Priority Level
   
 <p>
-Select “Low” from the Priority Level drop down menu. <img src="https://imgur.com/W4yFfOZ.png">
-</p>
-<p>
-
-- Update
-  
-<p>
-Click on the Update button. <img src="https://imgur.com/lOEPo50.png">
+Select “Low” from the Priority Level drop down menu. Then, click on the Update button. <img src="https://imgur.com/W4yFfOZ.png">
 </p>
 <p>
 
@@ -344,29 +330,14 @@ Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgu
 - Update SLA Plan
   
 <p>
-Then, choose “SEV-C” from the SLA Plan drop down menu. <img src="https://imgur.com/ME3HHby.png">
+Then, choose “SEV-C” from the SLA Plan's drop down menu. Then, click on the Update button. <img src="https://imgur.com/ME3HHby.png">
 
-</p>
-<p>
-
-- Update
-  
-<p>
-Click on the Update button. <img src="https://imgur.com/p9taZlX.png">
 </p>
 <p>
 
 - Solve Ticket
   
 <p>
-From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” <img src="https://imgur.com/PRwV7Vn.png">
-</p>
-<p>
-
-- Post Reply
-  
-<p>
-Post Reply
-Click on the Post Reply button. <img src="https://imgur.com/iyXtx5f.png">
+From the “Ticket Status” drop down menu, change the ticket status to “Resolved.” Next, click on the Post Reply button. <img src="https://imgur.com/PRwV7Vn.png">
 </p>
 <p>

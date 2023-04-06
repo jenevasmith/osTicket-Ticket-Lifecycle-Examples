@@ -92,7 +92,7 @@ Next to "Assigned To" click on “Unassigned.” <img src="https://imgur.com/DTo
 - Assignee
   
 <p>
-Within the “Assign to a Team” pop up, from the “Assignee” drop down menu choose, “Jane Doe.” <img src="https://imgur.com/qBbCoVW.png">
+Within the “Assign to a Team” pop up and from the “Assignee” drop down menu choose, “Jane Doe.” <img src="https://imgur.com/qBbCoVW.png">
 </p>
 <p>
   
@@ -206,7 +206,7 @@ Click on “Unassigned” to begin assigning the ticket. <img src="https://imgur
 - Assignee
   
 <p>
-Within the "Assign to a Team" pop up, from the "Assignee" drop down menu choose, “John Doe.” <img src="https://imgur.com/NSMH9CZ.png">
+Within the "Assign to a Team" pop up and from the "Assignee" drop down menu choose, “John Doe.” <img src="https://imgur.com/NSMH9CZ.png">
 </p>
 <p>
 
@@ -299,7 +299,7 @@ Click on “Unassigned” to begin assigning the ticket. <img src="https://imgur
 - Assignee
   
 <p>
-Within the “Assign to a Team” pop up, from the “Assignee,” drop down menu, choose, “Jane Doe.” <img src="https://imgur.com/7FK4cg3.png">
+Within the “Assign to a Team” pop up and from the “Assignee,” drop down menu choose, “Jane Doe.” <img src="https://imgur.com/7FK4cg3.png">
 </p>
 <p>
 

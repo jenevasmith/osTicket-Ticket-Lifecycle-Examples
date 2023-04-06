@@ -18,7 +18,7 @@ This tutorial outlines osTicket: ticket lifecycle examples of the open-source he
 
 <h2>List of Prerequisites</h2>
 
-- <a href="https://github.com/jenevasmith/osTicket-Post-Installation-Configuration">osTicket Post Installation Configuration 
+- <a href="https://github.com/jenevasmith/osTicket-Post-Installation-Configuration"> See osTicket: Post Installation Configuration 
 
 <h2>osTicket Ticket Lifecycle Examples Steps</h2>
   

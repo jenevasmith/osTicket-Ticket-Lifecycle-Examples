@@ -164,7 +164,7 @@ In the Email Address section, add End User (customer) Ken’s email address: "Ke
 - Help Topic
   
 <p>
-Select “Personal Computer Issues” from the Help Desk drop down menu. <img src="https://imgur.com/c6nUdqY.png">
+Next, select “Personal Computer Issues” from the Help Desk drop down menu. <img src="https://imgur.com/c6nUdqY.png">
 </p>
 <p>
   

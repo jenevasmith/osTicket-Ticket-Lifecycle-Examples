@@ -10,7 +10,7 @@ This tutorial outlines osTicket: ticket lifecycle examples of the open-source he
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-- osTicket (help desk ticketing system)
+- osTicket (Help Desk Ticketing System)
 
 <h2>Operating Systems Used </h2>
 

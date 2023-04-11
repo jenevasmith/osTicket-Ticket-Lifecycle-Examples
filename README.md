@@ -31,7 +31,7 @@ In the browser, paste the following URL: http://localhost/osTicket/ <img src="ht
 </p>
 <p>
   
-- Sev-A Example (Grace Period: 1 hour, Schedule: 24/7) - Entire mobile/online banking system is down 
+- Sev-A Example (Grace Period: 1 hour, Schedule: 24/7) - Entire Mobile/Online Banking System Is Down 
 
 - Open a New Ticket
   

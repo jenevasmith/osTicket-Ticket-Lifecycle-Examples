@@ -64,7 +64,7 @@ Click the Create Ticket button. <img src="https://imgur.com/Q0D4h23.png">
 - Triage Ticket
   
 <p>
-Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket -  the entire mobile/online banking system being down, it is a business impacting incident that could potentially lose money for the business. Therefore, the ticket needs to be updated from “Normal” to “Emergency.” <img src="https://imgur.com/1yCATqA.png">
+Start the ticket triage process by assigning a level of priority to Karen’s ticket. Due to the nature of this ticket, "the entire mobile/online banking system being down," it is a business impacting incident that could potentially lose money for the business. Therefore, the ticket needs to be updated from “Normal” to “Emergency.” <img src="https://imgur.com/1yCATqA.png">
 </p>
 <p>
   

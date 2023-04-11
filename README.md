@@ -57,7 +57,7 @@ Select “Business Critical Outage” from the Help Topic drop down menu. <img s
 - Create a Ticket
 
 <p>
-Click the create ticket button. <img src="https://imgur.com/Q0D4h23.png">
+Click the Create Ticket button. <img src="https://imgur.com/Q0D4h23.png">
 </p>
 <p>
 

@@ -227,7 +227,7 @@ Update the SLA Plan by first selecting “Default SLA.” <img src="https://imgu
 - Update SLA Plan
   
 <p>
-Then, choose “SEV-B” from the SLA Plan drop down menu. Then, click on the Update button. <img src="https://imgur.com/pML9c4j.png">
+Then, choose “SEV-B” from the SLA Plan drop down menu. Next, click on the Update button. <img src="https://imgur.com/pML9c4j.png">
 </p>
 <p>
 

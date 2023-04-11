@@ -22,7 +22,7 @@ This tutorial outlines osTicket: ticket lifecycle examples of the open-source he
 
 <h2>osTicket: Ticket Lifecycle Examples Steps</h2>
   
-- Practice creating, triaging, and solving tickets. 
+- Practice creating, triaging, and solving tickets
 
 - Support Center 
   
